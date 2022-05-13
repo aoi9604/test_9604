@@ -1,7 +1,7 @@
 @echo off
 
 git add .
-git commit -m "출석"
+git commit -m "Attendance Automation"
 git push
 
 echo Done!
